@@ -2,5 +2,5 @@ using UnityEngine;
 
 public static class GameInfo 
 {
-    public static readonly Vector2 GridSize = new Vector2(8,8);
+    public static readonly Vector2Int GridSize = new Vector2Int(8,8);
 }
